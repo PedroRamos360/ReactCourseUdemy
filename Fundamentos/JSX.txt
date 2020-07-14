@@ -1,0 +1,3 @@
+- É basicamente o uso da sintaxe HTML dentro do javascript
+- É usado apenas JS
+- Babel: biblioteca para transformar o código JSX em um código que o navegador entenda

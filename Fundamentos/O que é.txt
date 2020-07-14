@@ -1,0 +1,4 @@
+- Biblioteca para a criação de interfaces
+- Só serve para frontend
+- Utilizada para desenvolvimento de apps web
+- Bibliotecas: React, React-Native, ReactJS

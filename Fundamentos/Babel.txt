@@ -1,0 +1,2 @@
+- É o responsável por transformar o código ECMAScript em código entendível para navegadores
+- Ele transpila o código
