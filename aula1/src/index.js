@@ -12,6 +12,7 @@ class App extends React.Component {
                 <Button title="teste" descricao="asasas">
                     Update
                 </Button>
+                <Button>Update</Button>
             </>
         );
     }

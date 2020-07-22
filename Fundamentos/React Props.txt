@@ -1,0 +1,4 @@
+São propriedades do react que podem ser usadas para definir algo dentro de alguma estrutura criada
+- Podem ter qualquer nome
+- Algumas são de uso do javascript como: class, id, onSubmit etc.
+- Para acessá-las é usado {this.props.nomeDaPropriedade}

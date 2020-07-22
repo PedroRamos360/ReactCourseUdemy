@@ -1,7 +1,17 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import './index.css';
 
 class Button extends Component {
+    static defaultProps = {
+        title: "Comportamento Padrão",
+        descricao: "descricao default"
+    };
+
+    static propTypes = {
+        title: PropTypes.string.isRequired
+    };
+
     render() {
         return(
             <div>

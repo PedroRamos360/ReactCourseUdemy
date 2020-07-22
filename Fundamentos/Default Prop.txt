@@ -1,0 +1,13 @@
+Valor de propriedade que será usado se nenhum valor for atribuído para determinada propriedade
+Exemplo:
+Em uma situação que um botão tem uma propriedade por exemplo: btn-content que armazena o conteúdo do botão
+<Button btn-content="hello"></Button>
+Será criado um botão escrito "hello" dentro
+Mas se não houver btn-content que valor será usado?
+<Button></Button>
+O valor da default prop (se houver uma)
+
+Sintaxe de criação:
+static defaultProp = {
+	propName: propValue
+}
