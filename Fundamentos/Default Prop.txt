@@ -11,3 +11,8 @@ Sintaxe de criação:
 static defaultProp = {
 	propName: propValue
 }
+
+Sintaxe do propTypes:
+static propTypes = {
+	title: PropTypes.string.isRequired
+};
