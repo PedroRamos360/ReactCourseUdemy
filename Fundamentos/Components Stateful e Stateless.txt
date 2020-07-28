@@ -1,0 +1,3 @@
+Stateful: requer declaração render e requer declaração de classe. Melhor para compenentes que tiverem variáveis
+Stateless: sem declaração render, sem declaração de classe e não é usado o this: as propriedades são passadas 
+como parâmetro da função. Melhor para components que não tiverem variáveis.
